@@ -1,10 +1,10 @@
 # Handwriting Recognition with PyTorch & MNIST Dataset
 
-Path  ``` $ .. sand/active/convolutional-neural-networks ```
-Master Repo : [Convoluted Neural Networks](https://github.com/mori-c/convolutional-neural-networks)
-Project : [Curriculum](https://github.com/mori-c/convolutional-neural-networks/projects/1)
-Tutorial : [Torch.nn](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
-PyTorch Repo  :  [Neural Net Tutorial](https://is.gd/KXdGOU)
+* Path  ``` $ .. sand/active/convolutional-neural-networks ```
+* Master Repo : [Convoluted Neural Networks](https://github.com/mori-c/convolutional-neural-networks)
+* Project : [Curriculum](https://github.com/mori-c/convolutional-neural-networks/projects/1)
+* Tutorial : [Torch.nn](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
+* PyTorch Repo  :  [Neural Net Tutorial](https://is.gd/KXdGOU)
 
 ### Install Prerequisites
 
